@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `React`, `HTML` , `css`, `JavaScript`,`Typescript`
-- 🌱 I’m currently learning `Nextjs`,`Talwind css`,`Typescript`
-- 💬 Ask me about `HTML`,`css`
+- 🔭 I’m currently working on `React`, `HTML` , `css`, `JavaScript`, `Typescript`, `Next.js`, `Talwind css`
+- 🌱 I’m currently learning `Typescript`
+- 💬 Ask me about `HTML`,`css` ,`Tailwind css`
 - 📫 How to reach me: `jigar.prajapati@cognitivecoreai.com`
 
